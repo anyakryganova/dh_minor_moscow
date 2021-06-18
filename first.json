@@ -1,0 +1,111 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fafa00",
+        "marker-size": "medium",
+        "marker-symbol": "prison",
+        "label": "Бутырская тюрьма",
+        "person": "Маяковский В. В.",
+        "facts": "Здесь В. В. Маяковский провел 11 месяцев в одиночной камере №103 и был освобожден 11 января 1910 года."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.594099044799805,
+          55.78427180561563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1432fa",
+        "marker-size": "medium",
+        "marker-symbol": "museum",
+        "label": "Мемориальная квартира Андрея Белого",
+        "person": "Андрей Белый",
+        "facts": "В этой квартире на Старом Арбате в кругу своей семьи Борис Бугаев (настоящее имя Андрея Белого) прожил до 26 лет."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.585591077804565,
+          55.74689191524897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa00b4",
+        "marker-size": "medium",
+        "marker-symbol": "museum",
+        "label": "дом Брюсова/музей Серебряного века",
+        "person": "Брюсов В. Я.",
+        "facts": "Квартира стала своеобразным приютом великих умов Серебряного века. Здесь часто бывали Константин Бальмонт, Андрей Белый, Александр Бенуа, Юргис Балтрушайтис, Сергей Есенин, Евгений Лансере, Игорь Северянин, Владислав Ходасевич, Владимир Маяковский."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.633066177368164,
+          55.77823840244825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1432fa",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "label": "квартира Бунина",
+        "person": "Бунин И. А. ",
+        "facts": "Рядом с домом на Поварской сейчас находится Бунинский сквер с памятником писателю."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.59371817111969,
+          55.75490145885858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1432fa",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "label ": "место проживания Бунина",
+        "person": "Бунин И. А."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.59529531002045,
+          55.749603207605084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fafa00",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "label": "гостиница \"Националь\"",
+        "person ": "Бунин И. А."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.61325538158417,
+          55.75677001512557
+        ]
+      }
+    }
+  ]
+}
